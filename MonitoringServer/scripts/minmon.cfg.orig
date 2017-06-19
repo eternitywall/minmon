@@ -1,0 +1,3 @@
+[MQTT]
+hostname: broker.mqtt.url
+port: 1883
